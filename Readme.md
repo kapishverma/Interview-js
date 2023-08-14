@@ -7,20 +7,20 @@
 [Synchronous and Asynchronous](#synchronous-and-asynchronous-execution)
 [try/catch and .then/.catch](#trycatch-and-thencatch)
 [why cant you use .catch() after another .catch()?](#why-cant-you-use-catch-after-another-catch)
-[async/await]()
+[async/await](#asyncawait)
 [Promises](#promises)
 [fetch API (either promise or async await)](#fetch-api)
 [concept of closures](#closure)
 [Nested Functions](#nested-function)
 [Callback and Callback hell](#callback-and-callback-hell)
 [ states of promises, how to create promise](#states-of-promises-how-to-create-promise-how-to-promise)
-[The rest and spread parameters (...)](#the-rest-and-spread-parameters)
+[The rest and spread parameters](#the-rest-and-spread-parameters)
 [ call, bind and apply](#call-apply-and-bind)
 [bind vs closure](#bind-vs-closure)
 [IIFE](#iife-immediately-invoked-function-expression)
 [web storges (cookies, local storage, session storage)](#web-storage-cookies-local-storage-session-storage)
 [Classes and Modules](#classes-and-modules)
-[print 1 after 1 sec, print 2 after 2 sec, .... 5 after sec (using setTimeout)]()
+[print 1 after 1 sec, print 2 after 2 sec, .... 5 after sec (using setTimeout)](#question-2)
 
 
 ---
